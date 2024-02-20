@@ -11,7 +11,9 @@ class AdminController extends BaseController
     }
 
 
+    public function createUser(){
 
+    }
 
 
 
